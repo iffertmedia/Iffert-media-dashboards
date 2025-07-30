@@ -1,0 +1,1 @@
+export default function Campaigns() { return <div>Campaigns integrated with Google Sheets</div>; }
