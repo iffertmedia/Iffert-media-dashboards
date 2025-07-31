@@ -1,1 +1,0 @@
-export default function Home() { return <div>Welcome to Iffert Media Dashboard</div>; }
